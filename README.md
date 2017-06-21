@@ -1,4 +1,4 @@
-# Our Tech Handbook
+# Our Engineering Handbook
 
 This repository contains policies and guides for our engineering team at DocTalk. As we grow our team, it becomes important that these stay transparent and that we are all aligned by them.
 
