@@ -6,10 +6,9 @@ All feedback and suggestions are appreciated (feel free to submit pull requests 
 
 ***
 
-
-### [Mission Statement](https://github.com/doctalk-india/handbook/blob/master/Mission%20Statement.md)
-### [Hiring](https://github.com/doctalk-india/handbook/blob/master/Hiring.md)
-### [Performance](https://github.com/doctalk-india/handbook/blob/master/Performance.md)
-### [Features](https://github.com/doctalk-india/handbook/blob/master/Features.md)
-### [Testing](https://github.com/doctalk-india/handbook/blob/master/Testing.md)
+### [Writing Code](https://github.com/doctalk-india/handbook/blob/master/Writing%20Code.md)
+### [Building Features](https://github.com/doctalk-india/handbook/blob/master/Building%20Features.md)
 ### [Releases](https://github.com/doctalk-india/handbook/blob/master/Releases.md)
+### [Performance](https://github.com/doctalk-india/handbook/blob/master/Performance.md)
+### [Hiring](https://github.com/doctalk-india/handbook/blob/master/Hiring.md)
+### [Code Reviews](https://github.com/doctalk-india/handbook/blob/master/Code%20Reviews.md)
