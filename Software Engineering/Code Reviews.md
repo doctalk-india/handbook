@@ -1,5 +1,7 @@
 # Code Review Guidelines
 
+Look for code smells when doing code reviews. A good place to start understanding how to identify code smells is [**this**](https://blog.codinghorror.com/code-smells/)
+
 ### When you submit a pull request
  * Annotate your code well so that the person reading it can understand it!
 
