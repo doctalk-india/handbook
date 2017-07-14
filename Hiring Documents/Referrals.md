@@ -7,7 +7,7 @@ This need not always be someone you know. It can be someone you admire or wish t
 Here are our currently open positions:
 * [iOS Engineer](https://angel.co/doctalk-solutions-inc/jobs/239303-ios-engineer)
 * [Android Engineer](https://angel.co/doctalk-solutions-inc/jobs/229805-android-engineer)
-* [Fullstack Engineer]()
+* [Fullstack Engineer](https://angel.co/doctalk-solutions-inc/jobs/229806-full-stack-engineer)
 * [QA Engineer](https://angel.co/doctalk-solutions-inc/jobs/258117-senior-quality-assurance-qa-engineer)
 * [Product Designer](https://angel.co/doctalk-solutions-inc/jobs/229808-product-designer)
 
