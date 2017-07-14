@@ -21,5 +21,6 @@ All feedback and suggestions are appreciated (feel free to submit pull requests 
 * [Code Reviews](https://github.com/doctalk-india/handbook/blob/master/Software%20Engineering/Code%20Reviews.md)
 * [Releases](https://github.com/doctalk-india/handbook/blob/master/Software%20Engineering/Releases.md)
 ## Benefits and Perks
-* [Vacation and Sick Leave](https://github.com/doctalk-india/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Performance Bonuses](https://github.com/doctalk-india/handbook/blob/master/Benefits%20and%20Perks/Performance%20Bonuses.md)
 * [Referral Bonuses](https://github.com/doctalk-india/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
+* [Vacation and Sick Leave](https://github.com/doctalk-india/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
