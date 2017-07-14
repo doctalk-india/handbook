@@ -12,6 +12,7 @@ Some useful git commands when releasing an update:
 ```sh
 $ git flow release start [version-number]
 # Bump version number and do your final testing before release.
+# Make sure release notes are updated
 $ git flow release finish [version-number]
 $ git push --tags
 ```
