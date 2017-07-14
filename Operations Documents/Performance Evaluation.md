@@ -1,6 +1,6 @@
 # Performance Evaluation
 
-### Deadlines being met (reviewed every pre-PL call)
+### Meeting Deadlines (reviewed every pre-PL call)
 
 ### Git Prime (reviewed every two weeks)
 
