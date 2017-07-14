@@ -1,6 +1,6 @@
-# Interviewing
+# Interview Process
 
-### Process
+### Methodology
 * Initial call to introduce DocTalk and get to know them at a basic level.
 * Evaluate whether they are very inquisitive about DocTalk and ask a lot of questions.
 * Send Programming/Design Task.
