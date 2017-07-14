@@ -15,6 +15,7 @@ All feedback and suggestions are appreciated (feel free to submit pull requests 
 * [Feature Requests](https://github.com/doctalk-india/handbook/blob/master/Operations%20Documents/Feature%20Requests.md)
 * [Feature Prioritization](https://github.com/doctalk-india/handbook/blob/master/Operations%20Documents/Feature%20Prioritization.md)
 * [**Product Lifecycle**](https://github.com/doctalk-india/handbook/blob/master/Operations%20Documents/Product%20Lifecycle.md)
+* [Daily Standups](https://github.com/doctalk-india/handbook/blob/master/Operations%20Documents/Daily%20Standups.md)
 * [Performance Evaluation](https://github.com/doctalk-india/handbook/blob/master/Operations%20Documents/Performance%20Evaluation.md)
 ## Software Engineering
 * [Feature Implementation](https://github.com/doctalk-india/handbook/blob/master/Software%20Engineering/Feature%20Implementation.md)
