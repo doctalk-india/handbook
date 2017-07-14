@@ -1,8 +1,7 @@
 # Interview Process
 
 ### Methodology
-* Initial call to introduce DocTalk and get to know them at a basic level.
-* Evaluate whether they are very inquisitive about DocTalk and ask a lot of questions.
+* Initial call to introduce DocTalk and get to know them at a basic level. Evaluate whether they are very inquisitive about DocTalk and ask a lot of questions.
 * Send Programming/Design Task.
 * Conduct Live Coding/Design Interview.
 * Reference Checks. (3 curated = people they worked with, 3-5 non-curated = linkedin / other professional networks)
@@ -24,7 +23,7 @@
     * “What is an example of that?”
     * “How did you do that?”
     * “How did that feel?”
-* Fly them in for an in person 1 day coding sesh.
+* Fly them in for an in person 1 day coding session.
 
 ### Point People
 * Design (Chaitu)
