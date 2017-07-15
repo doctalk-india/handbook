@@ -1,4 +1,5 @@
 # Releases
+
 - After a feature branch's pull request is merged back into develop and the app is ready for an update, create a new release branch.
 - Bump the version number on this branch and test the app thoroughly.
 - On android
@@ -16,4 +17,8 @@ $ git flow release start [version-number]
 $ git flow release finish [version-number]
 $ git push --tags
 ```
+
+Vijay is currently in charge of Android releases.
+Sourav is currently in charge of iOS releases.
+
 PS: Version number should always follow the following format:    **[major-version].[minor-version].[build]**
