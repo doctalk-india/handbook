@@ -34,11 +34,11 @@ The agenda for this discussion is as follows:
 * Set clear expectations.
 
 ### <a name="releases"></a>Releases
-Vijay will be in charge of Android releases so will only be assigned 90 points per PL.
-Sourav will be in charge of iOS release and so will only be assigned 90 points per PL.
+Vijay will be in charge of Android releases so will only be assigned 90 points per PL.  
+Sourav will be in charge of iOS release and so will only be assigned 90 points per PL.  
 The other 10 should go towards ensuring a smooth and timely release.
 
 ### <a name="buffer"></a>Buffer
-Vamsee will have a 25 point buffer to react to bug fixes and very high priority feature requests.
-Krishna will have a 25 point buffer to react to bug fixes and very high priority feature requests.
+Vamsee will have a 25 point buffer to react to bug fixes and very high priority feature requests.  
+Krishna will have a 25 point buffer to react to bug fixes and very high priority feature requests.  
 This will ensure overall team accountability while enabling other team members to stay focused on their respective tasks without facing any interruptions.
