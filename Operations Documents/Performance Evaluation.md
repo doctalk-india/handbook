@@ -13,6 +13,8 @@
 * Commits per Active Day > 2
 * Impact >= 1
 
+We will try have these stats up in our office to have some healthy competition going :)
+
 ### Quality of Code Reviews (reviewed every month)
 Be critical. We should always hold ourselves to high standards and aim to be better developers.
 The code reviewer will be held accountable for any bugs that could have been spotted during a code review.
