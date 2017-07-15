@@ -2,7 +2,7 @@
 
 typealias Days = Int
 
-enum VSL: Days {
-    case vacation = 13
-    case sick-leave = 8
+enum VSL: Days {  
+    case vacation = 13  
+    case sick-leave = 8  
 }
