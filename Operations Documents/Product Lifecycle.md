@@ -3,7 +3,7 @@
 ### Structure
 * [Length and Points](#length-points) - 14 days and 100 points
 * [PL Discussion](#pl-discussion) - Every 2nd Friday 6PM
-* [PL Progress Discussion](#pl-progress-discussion) - Every other Friday 6PM
+* [PL Progress Discussion](#pl-progress-discussion) - Every non-PL Discussion Friday 6PM
 * [PL Task Assignment](#pl-task-assignment) - Every 2nd Saturday 6PM
 * [Releases](#releases) - 1 team member for Android; 1 team member for iOS
 * [Buffer](#buffer)
@@ -22,7 +22,7 @@ The agenda for this discussion is as follows:
     * When calculating the points per sub task, we will usually ask the person with most expertise in that area to provide an estimate.
 
 ### <a name="pl-progress-discussion"></a>PL Progress Discussion
-Every other Friday, either Vamsee or Krishna will have a short discussion about progress with every team member.
+Every non-PL Discussion Friday, either Vamsee or Krishna will have a short discussion about progress with every team member.
 The agenda for this discussion is as follows:
 * Check if everything is on track.
 * If it is not, figure out how to get it back on track.
