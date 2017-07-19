@@ -1,5 +1,7 @@
 # Feature Prioritization
 
+You can access our prioritization sheet [**here**](https://docs.google.com/a/getdoctalk.com/spreadsheets/d/1JZkhymaoFsaGT_lB9M8qL1_KQOtEQP9xFTRhIsD_Mac/edit?usp=sharing).
+
 ### Metrics
 * Effort - This value is based on a combination of time it would take to implement for one engineer.  
 The scale is currently defined as:  

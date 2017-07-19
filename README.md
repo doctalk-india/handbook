@@ -6,6 +6,9 @@ All feedback and suggestions are appreciated (feel free to submit pull requests 
 
 ***
 
+## Onboarding Documents
+* [Welcome to DocTalk](https://github.com/doctalk-india/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20DocTalk.md)
+* [Checklists](https://github.com/doctalk-india/handbook/blob/master/Onboarding%20Documents/Checklists.md)
 ## Hiring Documents
 * [Interview Process](https://github.com/doctalk-india/handbook/blob/master/Hiring%20Documents/Interview%20Process.md)
 * [Referrals](https://github.com/doctalk-india/handbook/blob/master/Hiring%20Documents/Referrals.md)
