@@ -4,7 +4,7 @@ Before writing even a single line of code, write down a brief description of the
   - Name the feature branch as following - **feature/DOC-[jira issue number]_[feature name]**
   - For each subtask create a new branch out of the just created feature branch and name it **feature/DOC-[jira issue number]_[feature name]/[your_name]/DOC-[jira_sub_task_number]-[sub_task_name]**
   - Keep committing logical pieces of code once you are done working on them. This should become a regular practice rather than committing large chunks at one go.
-  - Prefix every commit with **DOC-[jira issue number]**
+  - Prefix every commit with **DOC-[jira_subtask_number]**
   - After the sub task has been completed thoroughly tested create a pull request to merge it back into the feature branch
   - After feature development is complete and thoroughly tested create a pull request to merge back into develop.
   - While creating the pull request, assign atleast one reviewer to request for a code review.
