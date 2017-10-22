@@ -29,3 +29,7 @@ The code reviewer will be held accountable for any bugs that could have been spo
 * Git Prime requirements not met for 2 PLs in a row.
 
 If you are ever performing badly, we're here to support you and get you back on track as long as you are proactive about improving. If bad performance persists then we will be forced to take action as we see appropriate.
+
+## Keeping up to date on your performance
+
+* We will send out emails at the end of every PL containing details about how every employee is performing. 
