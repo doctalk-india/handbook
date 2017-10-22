@@ -1,7 +1,7 @@
 # Feature Implementation
 Before writing even a single line of code, write down a brief description of the implementation details [**here**](https://docs.google.com/document/d/1ahK49ZzXtsa4m46LNJYtGWgtdGy6_qvbYjlMei_XKr8/edit). This is the pre-implementation documentation.
   - Everytime a new feature is being built, branch out of develop to create a new feature branch. **No changes should be ever committed directly to the develop branch.**
-  - Name the feature branch as following - **[your name]/DOC-[jira issue number]_[feature name]**
+  - Name the feature branch as following - **[your name]/DOC-[jira issue number]-[feature name]**
   - Keep committing logical pieces of code once you are done working on them. This should become a regular practice rather than committing large chunks at one go.
   - Prefix every commit with **DOC-[jira issue number]**
   - After feature development is complete and thoroughly tested create a pull request to merge back into develop.
