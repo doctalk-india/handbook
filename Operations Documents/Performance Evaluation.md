@@ -21,3 +21,11 @@ We will try have these stats up in our office to have some healthy competition g
 ### Quality of Code Reviews (reviewed every month)
 Be critical. We should always hold ourselves to high standards and aim to be better developers.
 The code reviewer will be held accountable for any bugs that could have been spotted during a code review.
+
+## Bad Performance
+
+* <60 points on JIRA in a PL.
+* <80 points on JIRA for 3 PLs in a row.
+* Git Prime requirements not met for 2 PLs in a row.
+
+If you are ever performing badly, we're here to support you and get you back on track as long as you are proactive about improving. If bad performance persists then we will be forced to take action as we see appropriate.
