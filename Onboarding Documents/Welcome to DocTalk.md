@@ -24,7 +24,7 @@ For now, DocTalk operates as a single team where everyone is working towards com
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
-You should expect a typical workweek at DocTalk to be 50-60 hours. Most people show up between 9 and 10 and leave between 8 and 9. We don’t work Sundays, but a lot of us host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you.
+You should expect a typical workweek at DocTalk to be 50-60 hours. We show up between 9 and 10 am and leave between 8 and 9 pm. We don’t work Sundays, but we sometimes go to events at night. If you stay back to work late on any day, we expect that you are in office before noon (latest) the next day.
 
 We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
 
